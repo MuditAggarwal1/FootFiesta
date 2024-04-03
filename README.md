@@ -4,7 +4,7 @@ FootFiesta is an online store specializing in sports shoes and sneakers from ren
  Here are the key technologies employed in this app:
  
 
-  1.  [Jetpack compose](https://developer.android.com/jetpack/compose) for UI : Leveraging Jetpack Compose, FootFiesta ensures a seamless and visually appealing user experience.
+  1.  [Jetpack compose](https://developer.android.com/jetpack/compose) for UI : Leveraging Jetpack Compose, FootFiesta ensures seamless and visually appealing experience.
   2.  Compose [Navigation](https://developer.android.com/jetpack/compose/navigation): Efficient navigation within the app is facilitated by Compose Navigation.
   3.  [Hilt](https://developer.android.com/training/dependency-injection/hilt-jetpack) for dependency Injection: Hilt simplifies dependency management, enhancing code 
       maintainability.
