@@ -1,8 +1,25 @@
 <div align="justify">
-FootFiesta, an online store specializing in sports shoes and sneakers from renowned brands like Nike and Adidas. The platform boasts a modern user interface (UI) with delightful animations, including features such as adding products to the cart, bookmarking items, and adjusting sizes. Here are the key technologies employed in this app:
-
-  1. [Jetpack compose](https://developer.android.com/jetpack/compose) for UI : Leveraging Jetpack Compose, FootFiesta ensures a seamless and visually appealing user experience.
+FootFiesta is an online store specializing in sports shoes and sneakers from renowned brands like Nike and Adidas. The platform boasts a modern user interface (UI) with delightful animations, including features such as adding products to the cart, bookmarking items, and adjusting sizes. Here are the key technologies employed in this app:
+ \n
+  1.  [Jetpack compose](https://developer.android.com/jetpack/compose) for UI : Leveraging Jetpack Compose, FootFiesta ensures a seamless and visually appealing user experience.
 </div>
+  2.  Compose [Navigation](https://developer.android.com/jetpack/compose/navigation): Efficient navigation within the app is facilitated by Compose Navigation.
+  3.  [Hilt](https://developer.android.com/training/dependency-injection/hilt-jetpack) for dependency Injection: Hilt simplifies dependency management, enhancing code 
+      maintainability.
+  4.  [Room](https://developer.android.com/training/data-storage/room): Complex data storage is handled using Room, allowing efficient local 
+      data management.
+  5.  [DataStore](https://developer.android.com/topic/libraries/architecture/datastore): For shared preferences (such as app launch state and language), DataStore proves invaluable.
+  6.[MacroBenchmark](https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview): To measure app performance, MacroBenchmark provides valuable insights.
+  7.  [Baseline Profiles](https://developer.android.com/topic/performance/baselineprofiles): These profiles optimize startup processes and reduce unnecessary animations.
+  8.  [LottieFiles](https://github.com/airbnb/lottie/blob/master/android-compose.md): Loading animations seamlessly with Compose is achieved through LottieFiles.
+  9.  [Animations & Transitions](https://developer.android.com/jetpack/compose/animation): The app features updated and infinite animations and smooth transitions.
+  10. [Timber](https://github.com/JakeWharton/timber): Library for android that simplifies the process of logging.
+  11. [Coil](https://coil-kt.github.io/coil/compose/): Loading images efficiently with Jetpack Compose is made possible by Coil.
+  12. [Pager layout](https://google.github.io/accompanist/pager/): Accompanist Pager Layout enhances the user experience.
+  13. [Placeholder](https://google.github.io/accompanist/placeholder/): Placeholder components contribute to a polished UI.
+  14. [WhatIf](https://github.com/skydoves/WhatIf): Handling conditional statements, nullables, collections, and booleans in a readable and cleaner manner is facilitated by WhatIf.
+  \n
+  FootFiesta combines cutting-edge technologies to create an engaging and user-friendly platform for sports enthusiasts and sneaker aficionados alike!
 
 Some screenshots of the Application: 
 <p align="center" float="left">
