@@ -30,13 +30,13 @@ Some screenshots of the Application:
 <table>
   <tr>
     <td>Splash Screen</td>
-    <td>Register Screen</td>
+    <td>Get Started Screen</td>
     <td>Login Screen</td>
     <td>Dashboard Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/40250a04-4cc9-4685-b399-a156d67b47dd" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/a1ef6997-b43a-4826-85b1-5e9077851737" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/8f6b9717-c1b2-49d3-8f58-a05bad710696" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/f753ffcd-5517-42e3-8390-510a4c44ab2d" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
   </tr>
