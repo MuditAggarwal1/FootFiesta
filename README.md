@@ -8,7 +8,7 @@ FootFiesta is an online store specializing in sports shoes and sneakers from ren
   4.  [Room](https://developer.android.com/training/data-storage/room): Complex data storage is handled using Room, allowing efficient local 
       data management.
   5.  [DataStore](https://developer.android.com/topic/libraries/architecture/datastore): For shared preferences (such as app launch state and language), DataStore proves invaluable.
-  6.[MacroBenchmark](https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview): To measure app performance, MacroBenchmark provides valuable insights.
+  6.  [MacroBenchmark](https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview): To measure app performance, MacroBenchmark provides valuable insights.
   7.  [Baseline Profiles](https://developer.android.com/topic/performance/baselineprofiles): These profiles optimize startup processes and reduce unnecessary animations.
   8.  [LottieFiles](https://github.com/airbnb/lottie/blob/master/android-compose.md): Loading animations seamlessly with Compose is achieved through LottieFiles.
   9.  [Animations & Transitions](https://developer.android.com/jetpack/compose/animation): The app features updated and infinite animations and smooth transitions.
