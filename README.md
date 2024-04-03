@@ -1,6 +1,6 @@
 <div align="justify">
 FootFiesta is an online store specializing in sports shoes and sneakers from renowned brands like Nike and Adidas. The platform boasts a modern user interface (UI) with delightful animations, including features such as adding products to the cart, bookmarking items, and adjusting sizes. Here are the key technologies employed in this app:
- \n
+
   1.  [Jetpack compose](https://developer.android.com/jetpack/compose) for UI : Leveraging Jetpack Compose, FootFiesta ensures a seamless and visually appealing user experience.
 </div>
   2.  Compose [Navigation](https://developer.android.com/jetpack/compose/navigation): Efficient navigation within the app is facilitated by Compose Navigation.
@@ -18,8 +18,10 @@ FootFiesta is an online store specializing in sports shoes and sneakers from ren
   12. [Pager layout](https://google.github.io/accompanist/pager/): Accompanist Pager Layout enhances the user experience.
   13. [Placeholder](https://google.github.io/accompanist/placeholder/): Placeholder components contribute to a polished UI.
   14. [WhatIf](https://github.com/skydoves/WhatIf): Handling conditional statements, nullables, collections, and booleans in a readable and cleaner manner is facilitated by WhatIf.
-  \n
+ 
   FootFiesta combines cutting-edge technologies to create an engaging and user-friendly platform for sports enthusiasts and sneaker aficionados alike!
+
+</div>
 
 Some screenshots of the Application: 
 <p align="center" float="left">
