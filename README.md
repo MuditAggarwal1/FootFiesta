@@ -19,7 +19,7 @@ FootFiesta is an online store specializing in sports shoes and sneakers from ren
   11. [Coil](https://coil-kt.github.io/coil/compose/): Loading images efficiently with Jetpack Compose is made possible by Coil.
   12. [Pager layout](https://google.github.io/accompanist/pager/): Accompanist Pager Layout enhances the user experience.
   13. [Placeholder](https://google.github.io/accompanist/placeholder/): Placeholder components contribute to a polished UI.
-  14. [WhatIf](https://github.com/skydoves/WhatIf): Handling conditional statements, nullables, collections, and booleans in a readable and cleaner manner is facilitated by WhatIf.
+  14. [WhatIf](https://github.com/skydoves/WhatIf): Handling conditional statements, nullables, collections, and booleans in a readable and cleaner manner.
  
   FootFiesta combines cutting-edge technologies to create an engaging and user-friendly platform for sports enthusiasts and sneaker aficionados alike!
 
@@ -70,4 +70,4 @@ Some screenshots of the Application:
  APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
 
  
-# FEEDZIE
+# FOOTFIESTA
