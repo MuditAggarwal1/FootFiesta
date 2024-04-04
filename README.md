@@ -60,10 +60,12 @@ Some screenshots of the Application:
   <tr>
     <td>Checkout Screen</td>
     <td>Orders History Screen</td>
+    <td>App Logo</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/71ebd708-f73d-4d99-b2c9-fa10375faf52" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/18f968aa-c2c4-4ed4-8a3e-476e8e706e32" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/ac6f2fab-1800-4180-8157-989a57777611" width="220"></td>
   </tr>
  </table>
  </p>
