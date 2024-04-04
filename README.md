@@ -70,10 +70,10 @@ Some screenshots of the Application:
  </table>
  </p>
 
+
  
  APP APK LINK  (https://drive.google.com/file/d/1AvBwJXZhxAxl1mLgWhUrn9aIZpe0Fkb5/view?usp=drive_link)
- 
- APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
+ APP VIDEO LINK (https://drive.google.com/file/d/1EayCk4BlZVItmLIEMl0suRscUdzP4BMY/view?usp=drive_link)
 
  
 # FOOTFIESTA
