@@ -43,25 +43,25 @@ Some screenshots of the Application:
  </table>
  <table>
   <tr>
-    <td>Donate Screen</td>
-    <td>Receive Screen</td>
-    <td>Food Map Screen</td>
-    <td>History Screen</td>
+    <td>Add To Cart Screen</td>
+    <td>Bookmarks Screen</td>
+    <td>Profile Screen</td>
+    <td>Cart Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682397-00db142f-8817-47d5-b23d-e67aef63ea02.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683214-c1795ace-d312-40f2-9b1f-72a855ea27bd.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/b6e8e07d-f608-4f36-86ba-2f4c37f2d8ab" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/adb1aea3-8b77-49d7-9bbd-0e9a6f2c293a" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/87ba63dc-d85c-4766-96e2-47753d3f35db" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/65aa34fe-9d3b-4717-a1ec-5a76435ea458" width="220"></td>
   </tr>
  </table>
  </table>
  <table>
   <tr>
-    <td>About Screen</td>
+    <td>Checkout Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/355eae04-00c5-4e5d-be71-0f7e66dcc347" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/71ebd708-f73d-4d99-b2c9-fa10375faf52" width="220"></td>
   </tr>
  </table>
  </p>
