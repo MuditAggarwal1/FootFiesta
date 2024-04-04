@@ -32,13 +32,13 @@ Some screenshots of the Application:
     <td>Splash Screen</td>
     <td>Get Started Screen</td>
     <td>Login Screen</td>
-    <td>Dashboard Screen</td>
+    <td>Home Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/40250a04-4cc9-4685-b399-a156d67b47dd" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/8f6b9717-c1b2-49d3-8f58-a05bad710696" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/f753ffcd-5517-42e3-8390-510a4c44ab2d" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/f5b5f6c9-4b81-4d28-9f36-d85b5a6ce0c1" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FOOTFIESTA/assets/135834440/07e691e1-54e4-4309-a5c3-0550eaa7037c" width="220"></td>
   </tr>
  </table>
  <table>
